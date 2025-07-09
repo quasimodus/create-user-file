@@ -81,7 +81,3 @@ e-mail:
 
     ivanov@yandex.ru
 ```
-
----
-
-```
