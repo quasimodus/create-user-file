@@ -7,7 +7,7 @@ def generate_password():
     """Генерация 12-символьного пароля через pwgen"""
     try:
         result = subprocess.run(
-            ["pwgen", "-s", "12", "1"],  # -s для случайных, 12 символов, 1 пароль
+            ["pwgen", "12", "1"],  # -s для случайных, 12 символов, 1 пароль
             capture_output=True,
             text=True,
             check=True
