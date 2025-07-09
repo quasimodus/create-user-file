@@ -31,11 +31,12 @@ brew install pwgen
 ```bash
 git clone https://github.com/quasimodus/create-user-file.git
 cd create-user-file
+chmod +x create-user-file.py
 ```
 
 2. Запустите скрипт:
 ```bash
-python account_generator.py
+./create-user-file.py
 ```
 
 ## Использование
