@@ -23,7 +23,7 @@ def create_user_file():
     last_name = input("Фамилия: ").strip()
     first_name = input("Имя: ").strip()
     username = input("Логин: ").strip()
-    birth_date = input("Дата рождения (дд/мм): ").strip()
+    birth_date = input("Дата приёма (дд/мм): ").strip()
     place_number = input("Номер места: ").strip()  # Запрашиваем номер места
 
     password1 = generate_password()
