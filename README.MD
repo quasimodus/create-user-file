@@ -82,10 +82,6 @@ e-mail:
     ivanov@yandex.ru
 ```
 
-## Лицензия
-
-MIT License. Смотрите файл [LICENSE](LICENSE) для подробностей.
-
 ---
 
 ```
